@@ -1,0 +1,2 @@
+# Record-Management-System
+Record Mangement System enables you to organize and track records of your employee with file management. The function of this system are the following: Records personal information of employees service records. Save service credit and personal information in an excel file. Search and sort employees. History log. This system has to users: Admin and User --------------- admin username: admin password: admin user: username: user password: user database: db folder database name:
